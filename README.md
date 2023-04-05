@@ -1,4 +1,4 @@
-# spring_zipkin_metrics
+# spring-zipkin-metrics
 Sample app for Spring Boot + Zipkin metrics
 
 ## Manual Download
