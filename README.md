@@ -3,7 +3,7 @@ Demo code for Spring Boot + Zipkin metrics.
 
 Zipkin is useful to track performance of implementation services. It shows a breakdown of process timings.
 
-## Manual Download
+## Zipkin Download
 https://repo1.maven.org/maven2/io/zipkin/zipkin-server/2.24.0/zipkin-server-2.24.0-slim.jar
 
 ## Running via Java:
