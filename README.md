@@ -18,6 +18,9 @@ java -jar zipkin.jar
 docker run -d -p 9411:9411 openzipkin/zipkin-slim
 ```
 
-## Access the traces
+## Testing
 
-http://127.0.0.1:9411/
+* Start Zipkin server
+* Start Spring Boot application.
+* Access http://localhost:8080 a couple of times to generate tracing.
+* Access Zipkin on http://127.0.0.1:9411/ and find the traces
